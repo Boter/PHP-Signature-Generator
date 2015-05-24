@@ -28,3 +28,9 @@ For the mobile phone
 You can have all the coding you want to have, just add these and the code will replace it for you!
 
 Spread the love!
+
+## Own tags
+Adding more options is very simple. Just add [[ANYTHING]] and edit layout.html to show entered data.
+
+
+Wifree.si
