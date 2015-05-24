@@ -1,3 +1,5 @@
+<!-- This is forked from other source!! -->
+
 <?php
 if (!empty($_REQUEST['Sender'])):
     $sender = $_REQUEST['Sender'];
